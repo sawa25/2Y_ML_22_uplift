@@ -3,6 +3,7 @@
 
 опробованные модели:
 базовый S-learner,X-learner показали плохие результаты;
+
 T-learner,R-learner,UpliftTreeClassifier,UpliftRandomForestClassifier  показали плохие результаты;
 
 реализован поиск по сетке для модели causalml.inference.tree.UpliftTreeClassifier, 
