@@ -1,3 +1,4 @@
+Uplift.ipynb
 # 2Y_ML_22_uplift
 учебный проект: сравнение моделей по оптимальности применительно к датасету Criteo Uplift Prediction Dataset (https://ailab.criteo.com/criteo-uplift-prediction-dataset/)
 
